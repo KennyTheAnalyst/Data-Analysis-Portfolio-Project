@@ -1,5 +1,7 @@
-# PortfolioProjectCovid19
-SQL Data Exploration (Covid-19 Pandemic)
+# Data Analysis Portfolio Project Repository
+
+1. SQL Data Exploration (Covid-19 Pandemic)
+2. Cleaning Data in SQL Queries
 
 
 
