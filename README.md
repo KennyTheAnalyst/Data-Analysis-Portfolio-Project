@@ -1,7 +1,7 @@
 # Data Analysis Portfolio Project Repository
 
-1. SQL Data Exploration (Covid-19 Pandemic)
-2. Cleaning Data in SQL Queries
+1. (Covid-19 Pandemic) - SQL Data Exploration 
+2. (NashvilleHousing Portfolio) - Project Cleaning Data in SQL Queries
 
 
 
