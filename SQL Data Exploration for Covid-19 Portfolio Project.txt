@@ -22,7 +22,7 @@ From `portfolioproject-341819.Covid19.CovidDeaths`
 order by 1,2
 
 --Looking at the Total Cases vs Population
---Shows perecentage of population that got covid
+--Shows percentage of population that got covid
 
 SELECT location,date, total_cases,population,(total_cases/population)*100 as PercentPopulationInfected
 From `portfolioproject-341819.Covid19.CovidDeaths`
